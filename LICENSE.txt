@@ -1,0 +1,31 @@
+Software Limited Use License (this “License”) 
+
+ 
+
+License 
+
+Permission is hereby granted, free of charge, to any Non-Profit Organization (as defined below) to use this software and associated documentation files (collectively, the "Software") solely for its own internal research purpose. Such Non-Profit Organization shall not sublicense or transfer this License. Any Commercial Use of the Software is not allowed under this license.Employees, faculty and students of a Non-Profit Organization are covered by this License only if they use the Software within their ordinary scope of work at the Non-Profit Organization, provided that such use does not otherwise constitute Commercial Use.  Entities and institutions not qualified as a Non-Profit Organization and individuals other than employees, faculty or students of a Non-Profit Organization are hereby excluded from this License. 
+
+ 
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. 
+
+ 
+
+Disclaimer 
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
+
+ 
+
+Definition 
+
+“Commercial Use” means the use of the Software for commercial benefit, including without limitation, (i) for sale, license, lease, export, transfer or other distribution for profit or other commercial purposes; (ii) to provide a service for profit; (iii) to produce or manufacture products for general sale or ultimately intended for general sale; (iii) TO Use in a clinical trial or other testing regulated by a government agency (such as FDA, EMEA, EPA, etc.) or for therapeutic or diagnostic purpose; (iv) to collect and commercially exploit personal data; or (v) to generate a whole or partial genome sequence and use the foregoing for commercial purposes.  
+
+ 
+
+A “Non-Profit Organization” is a university or other institution of higher education or an organization of the type described in 501(c)(3) of the Internal Revenue Code of 1986, as amended (26 U.S.C. 501 (c)(3)) and exempt from taxation under 501 (a) of the Internal Revenue Code (26 U.S.C. 501 (a)) or any nonprofit scientific or educational organization granted with tax exempt status under similar legislation in other jurisdictions.  
+
+ 
+
+ 

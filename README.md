@@ -9,18 +9,19 @@ This repository contains the PAcbio Prediction of Epigenetics Technology (Papet)
 
 1. [Content](#content)
 2. [Dependencies](#dependencies)
-3. [Compilation](#compilation)
-4. [PacBio kinetics and epigenetics](#pacbio-kinetics-and-epigenetics)
-5. [Running Papet](#running-papet)  
-    5.1. [model-kinetic](#kinetics)  
-    5.2. [model-kinetic-txt](#model-kinetic-txt)  
-    5.3. [kinetics](#kinetics)  
-    5.4. [kinetics-wig](#kinetics-wig)  
-    5.5. [kinetics-kmer](#kinetics-kmer)  
-    5.6. [model-sequence](#model-sequence)  
-    5.7. [model-sequence-txt](#model-sequence-txt)  
-    5.8. [predict](#predict)
-6. [Aknow]
+3. [Docker image](#docker-image)
+4. [Compilation](#compilation)
+5. [About PacBio kinetics and epigenetics](#about-pacbio-kinetics-and-epigenetics)
+6. [Running Papet](#running-papet)  
+    6.1. [model-kinetic](#kinetics)  
+    6.2. [model-kinetic-txt](#model-kinetic-txt)  
+    6.3. [kinetics](#kinetics)  
+    6.4. [kinetics-wig](#kinetics-wig)  
+    6.5. [kinetics-kmer](#kinetics-kmer)  
+    6.6. [model-sequence](#model-sequence)  
+    6.7. [model-sequence-txt](#model-sequence-txt)  
+    6.8. [predict](#predict)
+7. [Acknowledgments](#acknowledgments)
 
 ## Dependencies
 
@@ -34,6 +35,17 @@ Papet relies on the following third party libraries:
 
 We strongly recommend to install these libraries in `/usr/local/lib` and their corresponding header files in `/usr/local/include`. If done this way, cmake compilation configuration should work out of the box.
 
+## Docker image
+
+A Dockerfile is present in the repository to build a docker image. To do so, simply use:
+```
+docker build -t papet .
+```
+
+Alternatively, the already built image can be pulled from [dockerhub](https://hub.docker.com/r/ngsai/papet) using
+```
+docker pull ngsai/papet
+```
 
 ## Compilation
 
